@@ -11,6 +11,7 @@ Este é um projeto inicial para aplicações utilizando React Three Fiber (R3F),
 
 ## Estrutura do Projeto
 
+```
 src/
 ├── components/
 │ ├── canvas/
@@ -29,6 +30,7 @@ src/
 │ └── threeUtil.js
 ├── App.jsx
 └── main.jsx
+```
 
 ## Como Executar o Projeto
 
