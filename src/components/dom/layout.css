@@ -1,0 +1,12 @@
+.layout-container {
+	position: fixed;
+	inset: 0;
+	touch-action: none;
+	user-select: none;
+	background-color: #0a0a0a;
+}
+
+/* Para garantir que o canvas também tenha o mesmo background */
+canvas {
+	background-color: #0a0a0a;
+}
